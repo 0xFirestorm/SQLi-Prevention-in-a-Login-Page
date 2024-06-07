@@ -1,2 +1,2 @@
 # SQLi-Prevention-in-a-Login-Page
-Through the implementation of parameterized queries, input validation, query time limits, and other security measures, the project effectively safeguards against SQL injection vulnerabilities.
+This project was made as a mandatory component for the completion of my course, Information Security (CS3002). It demonstrates my understanding of how SQLi works and the countermeasures against them. Through the implementation of parameterized queries, input validation, query time limits, and other security measures, the project effectively safeguards against SQL injection vulnerabilities.
